@@ -12,7 +12,7 @@ Laboratoire de Psychologie (ex. EA 3188) (Besançon) (chercheur associé)
 
 Qualifié Maître de Conférences en Sections 16 (en 2025)
 
-| **Formations académiques**                                                                                                                                                             |
+| **Formations académiques** |                                                                                                                                                           |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2017-2023 :                | Doctorat de Psychologie/Neuropsychologie, Université d'Angers                                                                                             |
 | 2016-2017 :                | Master 2 Psychologie, Recherche, approches fondamentales et appliquées (psychologie cognitive et neuropsychologie), Université d'Angers, Nantes et Rennes |
@@ -21,7 +21,7 @@ Qualifié Maître de Conférences en Sections 16 (en 2025)
 
 **Expériences professionnelles**
 
-| **Clinique :**                                                                                                             |
+| **Clinique :** |                                                                                                           |
 | -------------- | --------------------------------------------------------------------------------------------------------- |
 | 2017 :         | Stagiaire psychologue/neuropsychologue, [Pôle Santé Sarthe et Loir](#Sante_sarthe_loire_consult_mem)      |
 | 2017 :         | Stagiaire psychologue/neuropsychologue, [Centre Hospitalier de Châteaubriant](#Chateaubriant_consult_mem) |
